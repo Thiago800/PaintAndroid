@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="label_meu_desenho">Meu Desenho</string>
+</resources>
